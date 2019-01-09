@@ -1,0 +1,26 @@
+{
+  "name": "programmer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-eco": "0.0.10",
+    "discord.js": "^11.4.2",
+    "foreach-timeout": "^2.0.2",
+    "fs": "0.0.1-security",
+    "mongoose": "^5.4.1",
+    "ms": "^2.1.1",
+    "mysql": "^2.16.0",
+    "nekos.life": "^1.1.4",
+    "npm": "^6.4.1",
+    "request": "^2.88.0",
+    "sequelize": "^4.42.0",
+    "sqlite3": "^4.0.4",
+    "util": "^0.11.1"
+  }
+}
